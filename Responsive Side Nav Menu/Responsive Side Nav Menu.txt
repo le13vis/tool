@@ -1,0 +1,52 @@
+<html>
+<head>
+<link rel="stylesheet" href="Responsive Side Nav MenuCSS.css">
+</head>
+
+
+<h1>T  R  I  S  E  M</h1>
+<br><br><br>
+
+<div class="nav-container">
+  <ul class="nav">
+    <li class="active">
+      <a href="#">
+        <span class="icon-home"></span>
+        <span class="text">home</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <span class="icon-user"></span>
+        <span class="text">About</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         <span class="icon-play"></span>
+          <span class="text">Portfolio</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         <span class="icon-cogs"></span>
+          <span class="text">Services</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <span class="icon-briefcase"></span>
+          <span class="text">testmonials</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         <span class="icon-calendar"></span>
+          <span class="text">Contact us</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<script src="Responsive Side Nav MenuJS.js">
+</script>

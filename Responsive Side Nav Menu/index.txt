@@ -1,0 +1,126 @@
+<html>
+<head>
+<link rel="stylesheet" href="Responsive Side Nav MenuCSS.css">
+</head>
+
+
+<h1>TOOLS</h1>
+<br><br><br>
+
+<div class="nav-container">
+  <ul class="nav">
+    <li class="active">
+      <a href="http://ffh.onesource.tsl.telus.com/">
+        <span class="icon-home"></span>
+        <span class="text">OneSource</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScgdW-kUwaXudp6tiExvNCVm728F-eUgKnZzUgl9VrIaftxpw/viewform">
+        <span class="icon-user"></span>
+        <span class="text">Flamingo</span>
+      </a>
+    </li>
+    <li>
+      <a href="http://o2.tsl.telus.com/tools/CE-Care_Support/">
+         <span class="icon-play"></span>
+          <span class="text">CEF</span>
+      </a>
+    </li>
+    <li>
+      <a href="http://o2.tsl.telus.com/helpsystem/tv_help/index.cfm?tab=news">
+         <span class="icon-cogs"></span>
+          <span class="text">TV Channel Look Up</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://flcncapp-pr-csr.tsl.telus.com/web/guest/csr-desktop">
+        <span class="icon-briefcase"></span>
+          <span class="text">CSR</span>
+      </a>
+    </li>
+    <li>
+      <a href="http://btlp007286/webtools/bosr_new/">
+         <span class="icon-calendar"></span>
+          <span class="text">BOSR</span>
+      </a>
+    </li>
+<li>
+      <a href="http://nuremedy-prod.tsl.telus.com/arsys/shared/login.jsp?/arsys/forms/nuremedy-p1a1/TELUS-HomePage/Default+View/?cacheid=ecc50b57">
+         <span class="icon-calendar"></span>
+          <span class="text">Remedy</span>
+      </a>
+    </li>
+<li>
+      <a href="https://flcncapp-pr.tsl.telus.com/common/search.jsp?explorer_mode=disable&o=9146154726313882991&object=9134179303313237582">
+         <span class="icon-calendar"></span>
+          <span class="text">Netcraker</span>
+      </a>
+    </li>
+<li>
+      <a href="http://onesource.tsl.telus.com/FFH_emulators/31.164l.10/eng/admin/index.html">
+         <span class="icon-calendar"></span>
+          <span class="text">GUI</span>
+      </a>
+    </li>
+<li>
+      <a href="https://wp81021.corp.ads/ets/main.asp">
+         <span class="icon-calendar"></span>
+          <span class="text">EMT</span>
+      </a>
+    </li>
+<li>
+      <a href="http://wp81021.corp.ads/duedatetracker/main.asp">
+         <span class="icon-calendar"></span>
+          <span class="text">EAR</span>
+      </a>
+    </li>
+<li>
+      <a href="http://dst.tsl.telus.com/">
+         <span class="icon-calendar"></span>
+          <span class="text">Dispatch Status Tool</span>
+      </a>
+    </li>
+<li>
+      <a href="https://otss.telus.com/komodo/qsvu/">
+         <span class="icon-calendar"></span>
+          <span class="text">TTV Middleware</span>
+      </a>
+    </li>
+<li>
+      <a href="http://o2.tsl.telus.com/helpsystem/issue_help/index.cfm">
+         <span class="icon-calendar"></span>
+          <span class="text">Outage Tool</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<script src="Responsive Side Nav MenuJS.js">
+</script>
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
